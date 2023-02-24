@@ -1,0 +1,23 @@
+{
+  "name": "teamcreator",
+  "version": "1.0.0",
+  "description": "This application will take in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabersebti/teamCreator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabersebti/teamCreator/issues"
+  },
+  "homepage": "https://github.com/sabersebti/teamCreator#readme",
+  "dependencies": {
+    "jest": "^29.4.3"
+  }
+}
